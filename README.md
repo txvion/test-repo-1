@@ -1,2 +1,3 @@
 # test-repo-1
-This is a test for repo class
+
+This text was edited via the online GitHub editor.
